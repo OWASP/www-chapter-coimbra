@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Bernardo Rodrigues](mailto:bernardo.rodrigues@owasp.org)
+* [Pedro Tavares](mailto:pedro.tavares@owasp.org)
