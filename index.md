@@ -9,78 +9,42 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+![OWASP Coimbra](/assets/images/OWASPBanner.png)
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+# OWASP Coimbra Chapter
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
+Welcome to the official page of the **OWASP Coimbra Chapter**!
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
+## About Us
 
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
+The OWASP Coimbra Chapter is part of the [Open Worldwide Application Security Project (OWASP)](https://owasp.org/), a non-profit organization dedicated to improving the security of software.
 
-<li>region: This is the region you are in according to our data</li>
+Our mission is to build and grow a local community in the Coimbra region focused on **application security (AppSec)**, through open collaboration, sharing of knowledge, and promotion of secure development practices.
 
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
+We welcome everyone — professionals, students, researchers, and enthusiasts — to join us and be part of the conversation.
 
-</div>
+## What We Do
 
-## Welcome
-Include some information here about your chapter
+- Organize meetups and community events
+- Host technical talks and hands-on workshops
+- Share resources and AppSec content
+- Connect people interested in cybersecurity and secure software development
 
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+## Join Us
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+Whether you're just starting in AppSec, studying, already working in the field, or simply an enthusiast, the OWASP Coimbra Chapter is open to all.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+You can find our social media links in the menu on the side.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+Stay tuned for upcoming events and initiatives!
 
-<!-- You should delete this comment
+## Contact
 
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+You can find the contact details of the chapter leaders in the sidebar menu.
 
-{front matter for this file}
+---
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
-
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
+*This chapter is part of the OWASP Foundation and operates under its [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct).*
 
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
