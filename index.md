@@ -45,7 +45,3 @@ You can find the contact details of the chapter leaders in the sidebar menu.
 ---
 
 *This chapter is part of the OWASP Foundation and operates under its [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct).*
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
