@@ -1,7 +1,4 @@
-### Coimbra Information
-* Provide Group Information
-
 ### Social Links
-* [Meetup](#)
-
-
+* [Meetup - Soon](#)
+* [LinkedIn](https://www.linkedin.com/company/owasp-coimbra)
+* [Instagram](https://www.instagram.com/owaspcoimbra)
