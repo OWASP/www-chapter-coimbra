@@ -2,10 +2,10 @@
 
 title: Supporters
 displaytext: Our Supporters
-layout:  null
+layout: null
 tab: true
 order: 2
-tags: supporters
+tags: Coimbra
 
 ---
 
