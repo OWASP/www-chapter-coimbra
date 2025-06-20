@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Coimbra
-tags: example-tag
+tags: Coimbra
 region: Europe
 country: Portugal
 meetup-group:
