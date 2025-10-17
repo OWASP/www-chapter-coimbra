@@ -1,5 +1,5 @@
 ### Social Links
-* [Meetup - Soon](#)
+* [Meetup](https://www.meetup.com/owasp-coimbra)
 * [LinkedIn](https://www.linkedin.com/company/owasp-coimbra)
 * [Instagram](https://www.instagram.com/owaspcoimbra)
 * [Youtube](https://www.youtube.com/@OWASPCoimbra)
