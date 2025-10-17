@@ -1,0 +1,23 @@
+leaders:
+  - name: Bernardo Rodrigues
+    email: bernardo.rodrigues@owasp.org
+    github: bernardofsr
+  - name: Pedro Tavares
+    email: pedro.tavares@owasp.org
+location:
+  country: Portugal
+  country_code: PT
+  region: Coimbra District
+  city: Coimbra
+  latitude: 40.2111931
+  longitude: -8.4294632
+name: OWASP Coimbra
+repositories:
+  - name: www-chapter-coimbra
+    url: https://github.com/OWASP/www-chapter-coimbra
+    description: OWASP Foundation web repository
+tags:
+  - Coimbra
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-coimbra
